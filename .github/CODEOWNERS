@@ -24,6 +24,7 @@
 /rbltracker/            @DataDog/container-integrations
 /reboot_required/       support@krugerheavyindustries.com
 /redis_sentinel/        @krasnoukhov
+/riak_repl/		@abtreece
 /rigor/                 support@rigor.com
 /rookout/               support@rookout.com
 /sigsci/                info@signalsciences.com
@@ -35,4 +36,5 @@
 /traefik/               @renaudhager
 /upsc/                  @platinummonkey
 /uptime/                @jeremy-lq
+/vespa/                 dd@vespa.ai
 /vns3/                  @DataDog/agent-integrations
